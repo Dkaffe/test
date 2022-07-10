@@ -1,0 +1,80 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+}
+
+h2 {
+  margin: 10px 0;
+}
+
+main {
+  margin: auto 10px;
+}
+
+header {
+  background-image: url("https://content.codecademy.com/courses/freelance-1/unit-2/pattern.jpeg?_gl=1*jfvbsu*_ga*OTI4Mzk3MDk5MS4xNjU2NzEzNDcy*_ga_3LRZM6TM9L*MTY1NzQ1NTQyMC4xNi4xLjE2NTc0NTU3MDEuNTk");
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  font-size: 100px;
+  color: khaki;
+  text-align: center;
+  width: 100%;
+  position: relative;
+  margin: 0;
+  
+}
+
+#header1 {
+  font-size: 100px;
+}
+
+header h1 {
+  margin: 0;
+}
+
+.pricing-highlight {
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  color: blue;
+}
+
+.brushes h2 {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+  background-color: mediumspringgreen;
+  padding: 2px;
+}
+
+.frames h2 {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+  background-color: lightcoral;
+  padding: 2px;
+}
+
+.paint h2 {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+  background-color: skyblue;
+  padding: 2px;
+}
+
+.brushes, .frames, .paint {
+  margin-bottom: 20px;
+}
+
+#copyright {
+  font-size:small;
+  color: lightgray;
+  text-align: right;
+  margin-right: 10px;
+}
