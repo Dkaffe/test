@@ -24,7 +24,7 @@ html {
 }
 
 header {
-  background-image: url(../images/AdobeStock_285565957.jpeg);
+  background-image: url(AdobeStock_285565957.jpeg);
   width: 80%;
   margin: 0 auto;
   text-align: center;
@@ -86,7 +86,7 @@ body {
 }
 
 #area1 {
-  background-image: url(../images/AdobeStock_301452706.jpeg);
+  background-image: url(testbg213.png);
   width: 80%;
   margin: auto;
   padding-bottom: 50px;
