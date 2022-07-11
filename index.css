@@ -24,7 +24,7 @@ html {
 }
 
 header {
-  background-image: url(AdobeStock_285565957.jpeg);
+  background-image: url(../images/AdobeStock_285565957.jpeg);
   width: 80%;
   margin: 0 auto;
   text-align: center;
@@ -35,6 +35,7 @@ header {
   border-top-right-radius: 15px;
   position: relative;
   top: 5px;
+  overflow: hidden;
 }
 
 table, th, td {
@@ -86,7 +87,7 @@ body {
 }
 
 #area1 {
-  background-image: url(testbg213.png);
+  background-image: url(../images/AdobeStock_301452706.jpeg);
   width: 80%;
   margin: auto;
   padding-bottom: 50px;
